@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?> <!--XML prolog-->
 <note> <!-- Root element-->
   <to>Tove</to>
   <from>Jani</from>
   <heading>Reminder</heading>
-  <body>Don\'t forget me this weekend!</body>
+  <body>Don&apos;t forget me this weekend!</body>
 </note>
 
 <!--
@@ -13,5 +13,9 @@ XML tags are not predefined like HTML tags are
 
 => Xml tree
 - XML forms a tree structure
-- replo defines version and encoding
+- prolog defines version and encoding
+=> rules
+- XML is case sensetive
+- Opening and closing tags" are often referred to as "Start and end tags"
+- XML stores a new line as LF.
 -->
