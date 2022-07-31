@@ -1,20 +1,20 @@
-# APP title
+# Data Viswalization
 
-> APP description...
+> Data is all around us, but it doesn't mean much without shape or context. In the Data Visualization project, I'll build charts, graphs, and maps to present different types of data with the D3.js library.
 
 ## Built With
 
-- Technologies
+- D3.js
 
 ## Screenshots
 
 ### Mobile
 
-mobile views 
+Not available yet 🙂  
 
 ### Desktop
 
-Desktop Views
+Not available yet 🙂
 
 ## Live Demo
 
@@ -22,13 +22,13 @@ Desktop Views
 
 ## Getting Started
 
-1. Open [dev branch](https://github.com/Tadesse-Alemayehu/repo_location)
+1. Open [dev branch](https://github.com/Tadesse-Alemayehu//Data-Visulization)
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 3. Type "pwd" to see your working directory.
-4. [clone repository](https://github.com/Tadesse-Alemayehu/repo_location)
+4. [clone repository](https://github.com/Tadesse-Alemayehu/Data-Visulization)
 
 ```bash
-$ git clone https://github.com/Tadesse-Alemayehu/repo_location
+$ git clone https://github.com/Tadesse-Alemayehu/Data-Visulization
 ```
 
 5. Run
@@ -54,7 +54,7 @@ Give a ⭐️ if you like this project!
 
 ## Submit an issue
 
-[Issue page](https://github.com/Tadesse-Alemayehu/weather-now/repo_location)
+[Issue page](https://github.com/Tadesse-Alemayehu/weather-now//Data-Visulization)
 
 ## Acknowledgments
 - Microverse for amusing learning resources.
