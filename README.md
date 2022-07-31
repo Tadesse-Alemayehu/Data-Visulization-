@@ -5,12 +5,14 @@
 ## Built With
 
 - D3.js
+- XML
+- SVG
 
 ## Screenshots
 
 ### Mobile
 
-Not available yet 🙂  
+Not available yet 🙂
 
 ### Desktop
 
@@ -57,6 +59,7 @@ Give a ⭐️ if you like this project!
 [Issue page](https://github.com/Tadesse-Alemayehu/weather-now//Data-Visulization)
 
 ## Acknowledgments
+
 - Microverse for amusing learning resources.
 - Microverse code reviewers.
 - You! 😄 yes you... for visiting.
