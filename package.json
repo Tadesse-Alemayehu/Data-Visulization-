@@ -1,0 +1,20 @@
+{
+  "name": "data-visulization-",
+  "version": "1.0.0",
+  "description": "> APP description...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadesse-Alemayehu/Data-Visulization-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tadesse-Alemayehu/Data-Visulization-/issues"
+  },
+  "homepage": "https://github.com/Tadesse-Alemayehu/Data-Visulization-#readme"
+}
