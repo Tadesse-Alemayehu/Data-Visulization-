@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tadesse-Alemayehu/Data-Visulization-/issues"
   },
-  "homepage": "https://github.com/Tadesse-Alemayehu/Data-Visulization-#readme"
+  "homepage": "https://github.com/Tadesse-Alemayehu/Data-Visulization-#readme",
+  "dependencies": {
+    "d3": "^7.6.1"
+  }
 }
